@@ -96,10 +96,10 @@ cd taltech-energy-forecasting
 pip install -r requirements.txt
 
 # Run preprocessing (if not already done)
-python preprocess_all_buildings.py
+python pProcessing.py
 
 # Run training + evaluation
-python evaluate_xgboost_all_buildings.py
+python xGBoostRegression.py
 ```
 
 Outputs:
