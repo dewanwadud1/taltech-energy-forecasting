@@ -116,6 +116,7 @@ Outputs:
 ├── building_datasets/           # Preprocessed per-building datasets
 ├── prediction_plots/            # Visual outputs per building
 ├── building_xgboost_performance.csv
+├── Buildings_el.xlsx           # This is the main dataset provided by the Competition
 ├── pProcessing.py
 ├── xGBoostRegression.py
 ├── requirements.txt
